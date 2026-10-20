@@ -6,5 +6,8 @@
   "description": "夸克影视助手：资源站搜索 → 一键转存 → 本机代理播放（个人自用项目）",
   "scripts": {
     "server": "node src/server.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.63.0"
   }
 }
