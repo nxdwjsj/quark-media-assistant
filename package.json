@@ -1,0 +1,10 @@
+﻿{
+  "name": "quark-media-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "夸克影视助手：资源站搜索 → 一键转存 → 本机代理播放（个人自用项目）",
+  "scripts": {
+    "server": "node src/server.mjs"
+  }
+}
